@@ -1,0 +1,3 @@
+opencv-python
+# For advanced tracking features, uncomment the following line:
+# opencv-contrib-python 
